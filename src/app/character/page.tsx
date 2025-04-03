@@ -1,13 +1,13 @@
 import { Header } from "@/widgets/header";
 
-const Home = () => {
+const Character = () => {
   return (
     <div>
       <Header />
 
-      <div>Main</div>
+      <div>Character</div>
     </div>
   );
 };
 
-export default Home;
+export default Character;
